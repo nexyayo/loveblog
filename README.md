@@ -1,0 +1,2 @@
+# loveblog
+Projekt LoveBlog - Szkoła
